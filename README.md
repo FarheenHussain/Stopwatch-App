@@ -1,2 +1,2 @@
 # Stopwatch App
-A Stopwatch web application made using JavaScript.
+A simple Stopwatch web application, having 'start', 'pause' and 'reset' features, made using JavaScript.
